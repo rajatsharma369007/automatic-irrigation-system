@@ -1,3 +1,7 @@
+// this is a program to implement automatic irrigation system which helps to auto-regulate the moisture level of soil
+// Author: Rajat Sharma
+// Date: May, 2018
+
 sbit EN at P0_0_bit;
 sbit RW at P0_1_bit;
 sbit RS at P0_2_bit;
