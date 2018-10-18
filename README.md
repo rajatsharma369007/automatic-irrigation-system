@@ -1,2 +1,16 @@
 # Automatic_Irrigation_System
 The system consists of YL-69 moisture sensor, 8051 microcontroller, and water pump. The system is supposed to maintain the moisture level of soil at a certain threshold level.
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture1.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture2.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture3.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture4.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture5.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture6.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture7.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture8.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture9.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture10.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture11.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture12.JPG)
+![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture13.JPG)
