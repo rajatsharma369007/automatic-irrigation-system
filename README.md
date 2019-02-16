@@ -1,16 +1,24 @@
-# Automatic_Irrigation_System
-The system consists of YL-69 moisture sensor, 8051 microcontroller, and water pump. The system is supposed to maintain the moisture level of soil at a certain threshold level.
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture1.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture2.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture3.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture4.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture5.JPG)
+# Automatic Irrigation System
+
+## Introduction
+The system is created for maintaining the moisture level between 30% - 70%. This prototype can be scaled and modified for different types of crops and herbs cultivation. This system is prepared using YL-69 moisture sensor, 8051 microcontroller and 16x2 LCD display to display relevant information.
+
+## Components Required
+* 8051 microcontroller
+* YL-69 moisture sensor
+* YL-38 comparator module
+* 16x2 LCD display
+* Analog to Digital Converter
+* L293D Motor Driver
+* Motor Pump
+* 220V-AC to 5V-DC Power Supply
+* Capacitors, Resistors and wires
+
+## Software
+I have used MikroC software to code and load the program. You can download from here Link
+
+## Circuit Diagram
 ![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture6.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture7.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture8.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture9.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture10.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture11.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture12.JPG)
-![alt text](https://github.com/rajatsharma369007/Automatic_Irrigation_System/blob/master/image/Capture13.JPG)
+
+## Contribution
+If you are interested in improving the code, please open an issue first to describe the task you are planning to do. For small fixes (a few lines of change) feel free to open pull requests directly.
